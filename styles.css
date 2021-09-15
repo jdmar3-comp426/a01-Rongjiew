@@ -1,0 +1,37 @@
+#font_1{
+    color: red;
+    font-size: 24px;
+}
+.font_2{
+    color: blue;
+    font-style: italic;
+}
+.font_3{
+    color: rebeccapurple;
+    font-size: 24px;
+}
+.textStyle{
+    width: 921px;
+    height: 100px;
+
+}
+.borderStyle_1{
+    border-color: rgb(14, 11, 11);
+    border-width: 100px;
+}
+.background_1{
+    background-color: #00bfff;
+    padding: center;
+}
+a:link,
+a:visited {
+    color: rebeccapurple;
+    font-weight: bold;
+}
+a:hover {
+    color:hotpink;
+}
+div p{
+    padding: auto;
+    color: cornflowerblue;
+}  
