@@ -15,11 +15,16 @@
 .font_4{
     font: oblique;
     font-size: 144px;
+    color: black;
+    font-weight: 300;
 }
 .textStyle{
     width: 921px;
     height: 100px;
-
+    font: bold;
+    font-size: 44px;
+    color: black;
+    font-weight: 300;
 }
 .borderStyle_1{
     border-color: rgb(14, 11, 11);
