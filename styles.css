@@ -1,14 +1,20 @@
 #font_1{
     color: red;
     font-size: 24px;
+    font: message-box;
 }
 .font_2{
     color: blue;
     font-style: italic;
+    font: large;
 }
 .font_3{
     color: rebeccapurple;
     font-size: 24px;
+}
+.font_4{
+    font: oblique;
+    font-size: 144px;
 }
 .textStyle{
     width: 921px;
@@ -21,7 +27,7 @@
 }
 .background_1{
     background-color: #00bfff;
-    padding: center;
+    padding: 20px;
 }
 a:link,
 a:visited {
@@ -32,6 +38,6 @@ a:hover {
     color:hotpink;
 }
 div p{
-    padding: auto;
+    padding: 20px;
     color: cornflowerblue;
 }  
