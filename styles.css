@@ -1,0 +1,48 @@
+#font_1{
+    color: red;
+    font-size: 24px;
+    font: message-box;
+}
+.font_2{
+    color: blue;
+    font-style: italic;
+    font: large;
+}
+.font_3{
+    color: rebeccapurple;
+    font-size: 24px;
+}
+.font_4{
+    font: oblique;
+    font-size: 144px;
+    color: black;
+    font-weight: 300;
+}
+.textStyle{
+    width: 921px;
+    height: 100px;
+    font: bold;
+    font-size: 44px;
+    color: black;
+    font-weight: 300;
+}
+.borderStyle_1{
+    border-color: rgb(14, 11, 11);
+    border-width: 100px;
+}
+.background_1{
+    background-color: #00bfff;
+    padding: 20px;
+}
+a:link,
+a:visited {
+    color: rebeccapurple;
+    font-weight: bold;
+}
+a:hover {
+    color:hotpink;
+}
+div p{
+    padding: 20px;
+    color: cornflowerblue;
+}  
